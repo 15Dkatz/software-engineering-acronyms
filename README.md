@@ -82,6 +82,7 @@
 * WFB - Work from boat
 * WFS - Work from space
 
+***
 
 #### Watch a video about these acronyms
 [https://youtu.be/EJWR3sa4mKw](https://youtu.be/EJWR3sa4mKw)
